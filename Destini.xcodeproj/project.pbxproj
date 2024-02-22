@@ -14,9 +14,9 @@
 		BE6FCE1C2B868C39003DF4AD /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FCE1B2B868C39003DF4AD /* MainView.swift */; };
 		BE6FCE202B868C61003DF4AD /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FCE1F2B868C61003DF4AD /* Story.swift */; };
 		BE6FCE222B868C73003DF4AD /* StoryBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FCE212B868C73003DF4AD /* StoryBrain.swift */; };
-		BE6FCE262B868D49003DF4AD /* gilroy-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE232B868D48003DF4AD /* gilroy-bold.ttf */; };
-		BE6FCE272B868D49003DF4AD /* gilroy-lightitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE242B868D48003DF4AD /* gilroy-lightitalic.ttf */; };
-		BE6FCE282B868D49003DF4AD /* gilroy-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE252B868D49003DF4AD /* gilroy-regular.ttf */; };
+		BE6FCE262B868D49003DF4AD /* Gilroy-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE232B868D48003DF4AD /* Gilroy-Bold.ttf */; };
+		BE6FCE272B868D49003DF4AD /* Gilroy-Lightitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE242B868D48003DF4AD /* Gilroy-Lightitalic.ttf */; };
+		BE6FCE282B868D49003DF4AD /* Gilroy-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE252B868D49003DF4AD /* Gilroy-Regular.ttf */; };
 		BE6FCE2B2B868E6C003DF4AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE6FCE2A2B868E6C003DF4AD /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
@@ -30,9 +30,9 @@
 		BE6FCE1B2B868C39003DF4AD /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		BE6FCE1F2B868C61003DF4AD /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		BE6FCE212B868C73003DF4AD /* StoryBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryBrain.swift; sourceTree = "<group>"; };
-		BE6FCE232B868D48003DF4AD /* gilroy-bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "gilroy-bold.ttf"; sourceTree = "<group>"; };
-		BE6FCE242B868D48003DF4AD /* gilroy-lightitalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "gilroy-lightitalic.ttf"; sourceTree = "<group>"; };
-		BE6FCE252B868D49003DF4AD /* gilroy-regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "gilroy-regular.ttf"; sourceTree = "<group>"; };
+		BE6FCE232B868D48003DF4AD /* Gilroy-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Bold.ttf"; sourceTree = "<group>"; };
+		BE6FCE242B868D48003DF4AD /* Gilroy-Lightitalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Lightitalic.ttf"; sourceTree = "<group>"; };
+		BE6FCE252B868D49003DF4AD /* Gilroy-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Regular.ttf"; sourceTree = "<group>"; };
 		BE6FCE2A2B868E6C003DF4AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -123,9 +123,9 @@
 		BE6FCE292B868D62003DF4AD /* Font */ = {
 			isa = PBXGroup;
 			children = (
-				BE6FCE232B868D48003DF4AD /* gilroy-bold.ttf */,
-				BE6FCE242B868D48003DF4AD /* gilroy-lightitalic.ttf */,
-				BE6FCE252B868D49003DF4AD /* gilroy-regular.ttf */,
+				BE6FCE232B868D48003DF4AD /* Gilroy-Bold.ttf */,
+				BE6FCE242B868D48003DF4AD /* Gilroy-Lightitalic.ttf */,
+				BE6FCE252B868D49003DF4AD /* Gilroy-Regular.ttf */,
 			);
 			path = Font;
 			sourceTree = "<group>";
@@ -189,10 +189,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE6FCE112B868B5E003DF4AD /* LaunchScreen.storyboard in Resources */,
-				BE6FCE262B868D49003DF4AD /* gilroy-bold.ttf in Resources */,
+				BE6FCE262B868D49003DF4AD /* Gilroy-Bold.ttf in Resources */,
 				BE6FCE2B2B868E6C003DF4AD /* Assets.xcassets in Resources */,
-				BE6FCE272B868D49003DF4AD /* gilroy-lightitalic.ttf in Resources */,
-				BE6FCE282B868D49003DF4AD /* gilroy-regular.ttf in Resources */,
+				BE6FCE272B868D49003DF4AD /* Gilroy-Lightitalic.ttf in Resources */,
+				BE6FCE282B868D49003DF4AD /* Gilroy-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
